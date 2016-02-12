@@ -1,0 +1,27 @@
+{
+  "name": "brick-boilerplate",
+  "description": "An empty canopsis brick, to kickstart brick creation",
+  "version": "0.0.1",
+  "authors": [
+	"Team Canopsis <maintainers@canopsis.org>"
+  ],
+  "main": "init.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "canopsis"
+  ],
+  "license": "AGPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".",
+    "test",
+    "tests"
+  ],
+  "envMode": "production",
+  "dependencies": {}
+
+}

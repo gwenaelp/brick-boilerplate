@@ -1,0 +1,14 @@
+{
+  "name": "brick-boilerplate",
+  "description": "An empty canopsis brick, to kickstart brick creation",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwenaelp/brick-boilerplate.git"
+  },
+  "author": "Team Canopsis <maintainers@canopsis.org>",
+  "license": "AGPL-3.0",
+  "bowerDependencies": {
+  },
+  "envMode": "production"
+}
